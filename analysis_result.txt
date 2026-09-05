@@ -1,0 +1,83 @@
+Total de tablas encontradas: 5
+
+
+================================================================================
+TABLA 0
+================================================================================
+Encabezados (2):
+  0: 
+  1: 
+
+Primeras 3 filas (Total: 78):
+  Fila 1: ['', '']
+  Fila 2: ['', '']
+
+================================================================================
+TABLA 1
+================================================================================
+Encabezados (2):
+  0: 
+  1: 
+
+Primeras 3 filas (Total: 77):
+  Fila 1: ['', '']
+  Fila 2: ['', '']
+
+================================================================================
+TABLA 2
+================================================================================
+Encabezados (13):
+  0: Year
+  1: Population
+  2: Yearly % Change
+  3: Yearly Change
+  4: Migrants (net)
+  5: Median Age
+  6: Fertility Rate
+  7: Density (P/Km²)
+  8: Urban Pop %
+  9: Urban Population
+  10: Country's Share of World Pop
+  11: World Population
+  12: Argentina Global Rank
+
+Primeras 3 filas (Total: 20):
+  Fila 1: ['2026', '46,003,734', '0.33%']
+  Fila 2: ['2025', '45,851,378', '0.34%']
+
+================================================================================
+TABLA 3
+================================================================================
+Encabezados (13):
+  0: Year
+  1: Population
+  2: Yearly % Change
+  3: Yearly Change
+  4: Migrants (net)
+  5: Median Age
+  6: Fertility Rate
+  7: Density (P/Km²)
+  8: Urban Pop %
+  9: Urban Population
+  10: Country's Share of World Pop
+  11: World Population
+  12: Argentina Global Rank
+
+Primeras 3 filas (Total: 6):
+  Fila 1: ['2030', '46,585,022', '0.32%']
+  Fila 2: ['2035', '47,251,994', '0.28%']
+
+================================================================================
+TABLA 4
+================================================================================
+Encabezados (3):
+  0: Rank
+  1: Urban Area
+  2: Population Estimate (2025)
+
+Primeras 3 filas (Total: 71):
+  Fila 1: ['1', 'Buenos Aires', '14,017,736']
+  Fila 2: ['2', 'Cordoba', '1,460,491']
+
+
+Análisis completado
